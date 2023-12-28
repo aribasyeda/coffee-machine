@@ -31,6 +31,3 @@
 7. Make Coffee.
 * If the transaction is successful and there are enough resources to make the drink the user selected, then the ingredients to make the drink should be deducted from the coffee machine resources.
 * Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If latte was their choice of drink.
-
-### Authors:
-Ariba Syeda
